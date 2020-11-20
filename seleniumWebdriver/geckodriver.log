@@ -1,0 +1,7 @@
+1590833199779	geckodriver	INFO	Listening on 127.0.0.1:43223
+1590833202887	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.y60p2wB6Qcm0
+1590833202907	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1590833202939	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43231
+1590833204309	Marionette	INFO	Listening on port 43231
+1590833206161	Marionette	INFO	startBrowser d5959a57-9dcb-4284-a04c-43484a21fec7
+1602556258801	geckodriver	INFO	Listening on 127.0.0.1:54487
